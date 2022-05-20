@@ -1,0 +1,118 @@
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ_án_chuyên_đề.FrmDangNhap.resources
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ_án_chuyên_đề.Properties.Resources.resources
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\đồ án chuyên đề.exe.config
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\đồ án chuyên đề.exe
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\đồ án chuyên đề.pdb
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.exe
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.pdb
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ_án_chuyên_đề.FrmMain.resources
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.exe.licenses
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\Mockup\đồ án chuyên đề\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.csproj.CopyComplete
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\đồ án chuyên đề.exe.config
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\đồ án chuyên đề.exe
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\đồ án chuyên đề.pdb
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ_án_chuyên_đề.FrmDangNhap.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ_án_chuyên_đề.FrmMain.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ_án_chuyên_đề.Properties.Resources.resources
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.exe.licenses
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.csproj.CopyComplete
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.exe
+C:\Users\Admin\Desktop\ĐỒ ÁN CHUYÊN ĐỀ\đồ án chuyên đề\obj\Debug\đồ án chuyên đề.pdb
